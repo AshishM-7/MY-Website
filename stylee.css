@@ -9,7 +9,7 @@
 body {
     /* background-image: linear-gradient(rgba(9,0,77,0.65),rgba(9,0,77,0.65)),url(pexels-pixabay-33545.jpg); */
     /* background-image: url(pexels-pixabay-33545.jpg); */
-    background-image: url( images/pexels-david-selbert-6468238.jpg);
+    background-image: url(images/pexels-david-selbert-6468238.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
