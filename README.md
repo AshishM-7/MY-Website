@@ -9,4 +9,5 @@ Tech Stack
   <li>JavaScript</li>
 </u>
 <br>
-Link - <a href="https://ashishm-7.github.io/My-Website/" target="_blank" alt="DBATU Nearby Places"> DBATU Nearby Places </a>
+Link - <a href="https://ashishm-7.github.io/My-Website/" onclick="window.open(this.href, '_blank'); return false;" alt="DBATU Nearby Places">DBATU Nearby Places</a>
+
