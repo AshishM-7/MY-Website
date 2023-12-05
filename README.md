@@ -8,4 +8,5 @@ Tech Stack
   <li>CSS</li>
   <li>JavaScript</li>
 </u>
-Link - <a href="https://ashishm-7.github.io/My-Website/"> DBATU Nearby Places </a>
+<br>
+Link - <a href="https://ashishm-7.github.io/My-Website/" target="_blank" alt="DBATU Nearby Places"> DBATU Nearby Places </a>
